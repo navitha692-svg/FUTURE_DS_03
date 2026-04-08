@@ -1,0 +1,11 @@
+user_id,channel,visited,lead,customer
+1,Facebook,1,1,0
+2,Google,1,0,0
+3,Instagram,1,1,1
+4,Facebook,1,0,0
+5,Google,1,1,1
+6,Instagram,1,1,0
+7,Facebook,1,1,1
+8,Google,1,0,0
+9,Instagram,1,1,1
+10,Facebook,1,0,0
